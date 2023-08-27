@@ -3,6 +3,6 @@ package de.munichdeveloper.magic.auth.dto;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
-public class CatResponse {
+public class CatDTO {
     private String name;
 }
